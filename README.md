@@ -76,6 +76,7 @@
 ---
 *Проект выполнен в соответствии с конкурсным заданием. Срок реализации — 14 дней.*
 
+![Сертификат Fastboard](https://github.com/Nadezhda2024/Nadezhda2024/blob/main/%D0%9F%D0%B0%D0%BD%D1%8C%D0%BA%D0%BE%20%D0%9D%D0%B0%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0%20Fastbord.pdf)
 ## Автор
 - <b>[Nadezhda2024](https://github.com/Nadezhda2024)
 
