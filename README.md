@@ -1,6 +1,7 @@
 # ДАШБОРД БЬЮТИ-ТРЕВОГА: БОЛЕВЫЕ ТОЧКИ БИЗНЕСА 
 # Fastboard ![Fastboard](https://github.com/Nadezhda2024/participation-in-the-competition-Fastboard/blob/main/2025-11-24_18-38-35.png)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
