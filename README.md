@@ -20,7 +20,7 @@
 *На скриншоте представлен сводный дашборд с ключевыми показателями (KPI), графиками динамики и топ-таблицами. Данные на дашборде являются вымышленными.*
 
 ## Ссылка на дашборд
-<b>[Fastboard](https://demo.fb.winsolutions.ru/5bf5b129-3123-4bb1-9b3c-d2f47fa8aa56/board/8c565756-91a2-4f1e-bfff-c67a959a6df7)
+<b>[Fastboard](https://demo.fastboard.online/public/6b0db9a9-db69-4f78-8ab5-ba6ddf470c9d/board/dc056874-305d-11ee-8c70-04d4c47aef75)
 
 ## 💡 КЛЮЧЕВЫЕ ИННОВАЦИИ
 
