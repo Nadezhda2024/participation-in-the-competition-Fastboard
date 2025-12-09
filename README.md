@@ -4,7 +4,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+# :3rd_place_medal: Заняла 3 место в конкурсе Fastboard (ноябрь 2025) :3rd_place_medal:
 ## Описание проекта
 🚀 ОТ ПАНИКИ К ПЛАНУ! 
 Дашборд не просто показывает данные — он ведет пользователя за руку от проблемы к решению, превращая аналитику в конкретный план действий.\
@@ -79,7 +79,7 @@
 ![Сертификат Fastboard](https://github.com/Nadezhda2024/participation-in-the-competition-Fastboard/blob/main/%D0%9F%D0%B0%D0%BD%D1%8C%D0%BA%D0%BE%20%D0%9D%D0%B0%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0%20Fastbord_page-0001.jpg)
 ## Автор
 - <b>[Nadezhda2024](https://github.com/Nadezhda2024)
-
+![](https://github.com/Nadezhda2024/Nadezhda2024/blob/main/photo_2025-11-27_19-09-38.jpg)
 ![](https://github.com/Nadezhda2024/participation-in-the-competition-Fastboard/blob/main/2025-11-24_18-18-39.png)
 ![](https://github.com/Nadezhda2024/participation-in-the-competition-Fastboard/blob/main/2025-11-24_18-19-29.png)
 ![](https://github.com/Nadezhda2024/participation-in-the-competition-Fastboard/blob/main/2025-11-24_18-19-50.png)
